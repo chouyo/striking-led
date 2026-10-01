@@ -18,7 +18,6 @@ on:
         type: choice
         options:
           - main
-          - ads
       flavor:
         description: 'Product flavor (optional)'
         required: false
